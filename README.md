@@ -14,7 +14,7 @@
 ### - Main
 ![image](https://github.com/Jampaaang/Tugas_TeoriPBO_Pert06/assets/145977090/a2a2258a-3c03-4829-8933-1bc1a29a4a25)
 
-## *Hasil Run Pecahan :
+## *Hasil Run :
 ![image](https://github.com/Jampaaang/Tugas_TeoriPBO_Pert06/assets/145977090/2e8aab89-a737-49ec-8b7e-56d3dcc1406a)
 
 
