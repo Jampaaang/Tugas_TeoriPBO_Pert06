@@ -1,5 +1,4 @@
 # Tugas_TeoriPBO_Pert06
-## *Hasil Run Matrix :
 ### - Susunan Library
 ![image](https://github.com/Jampaaang/Tugas_TeoriPBO_Pert06/assets/145977090/2a967fae-5e67-4b38-b574-b156fb5de953)
 
